@@ -37,7 +37,7 @@ app.listen(port, () => {
   console.log('\x1b[36m[ SERVER ]\x1b[0m', '\x1b[32m SH : http://localhost:' + port + ' ✅\x1b[0m');
 });
 
-const statusMessages = ["🎧 :P", "🎮 pycatxel.fun"];
+const statusMessages = ["Meow Meow Meow~🐱","Mặc Ấm Vào! Lạnh Lém!","Liếm La Liếm Láp! Đi Ăn Không?!","Hù!!!","Watching Pycatxel Tới Chơi", "🎮 pycatxel.fun"];
 const statusTypes = [ 'dnd', 'idle','online'];
 let currentStatusIndex = 0;
 let currentTypeIndex = 0;
